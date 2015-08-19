@@ -1,6 +1,6 @@
 # Ask us anything!
 
-## [Ask a question](../../issues/new) &nbsp; or &nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](../../issues/new) &nbsp; or &nbsp; [Read questions](../../issues?q=)
 
 We get a lot of questions by email. This way anyone can read the answer!
 
